@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Projects
+
 <!--
 **Hassler-Malaba/Hassler-Malaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
