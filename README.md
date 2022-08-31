@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassler-malaba&label=Profile%20views&color=0e75b6&style=flat" alt="hassler-malaba" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hassler247" target="blank"><img src="https://img.shields.io/twitter/follow/hassler247?logo=twitter&style=for-the-badge" alt="hassler247" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hassler47" target="blank"><img src="https://img.shields.io/twitter/follow/hassler47?logo=twitter&style=for-the-badge" alt="hassler47" /></a> </p>
 
 - 💬 Ask me about **JS, Node.js, Express.Js, React.JS**
 
